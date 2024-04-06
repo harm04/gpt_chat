@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651017585040",
+    "project_id": "gpt-chat-87c0c",
+    "storage_bucket": "gpt-chat-87c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651017585040:android:e1c86acec53bf4170c7315",
+        "android_client_info": {
+          "package_name": "com.example.gpt_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOX8ZSWBYxkbvWGEWi-43hGtlBDxYLU4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
